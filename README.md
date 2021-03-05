@@ -4,4 +4,6 @@ This project is to test using Jupyter Notebooks with C# (.NET Interactive) throu
 
 Click below V
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeremybytes/test-jupyter-csharp/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeremybytes/test-jupyter-csharp/main)  
+
+Note: This isn't working quite yet.
