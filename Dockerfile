@@ -53,10 +53,10 @@ RUN dotnet_sdk_version=5.0.102 \
     && dotnet help
 
 # Copy notebooks
-COPY ./samples/notebooks/ ${HOME}/Notebooks/
+# COPY ./samples/notebooks/ ${HOME}/Notebooks/
 
 # Copy package sources
-COPY ./NuGet.config ${HOME}/nuget.config
+# COPY ./NuGet.config ${HOME}/nuget.config
 
 RUN chown -R ${NB_UID} ${HOME}
 USER ${USER}
