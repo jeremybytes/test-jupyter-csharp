@@ -54,6 +54,7 @@ RUN dotnet_sdk_version=5.0.102 \
 
 # Copy notebooks
 # COPY ./samples/notebooks/ ${HOME}/Notebooks/
+COPY ./*.ipynb ${HOME}/Notebooks/
 
 # Copy package sources
 # COPY ./NuGet.config ${HOME}/nuget.config
