@@ -6,4 +6,4 @@ Click below V
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeremybytes/test-jupyter-csharp/main)  
 
-Note: This isn't working quite yet.
+The notebook is working on Binder. (It's not too exciting, but it works.)
